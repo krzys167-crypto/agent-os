@@ -682,4 +682,4 @@ request on
 [GitHub](https://github.com/use-agent-os/agent-os).
 
 [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) ·
-[Support](SUPPORT.md) · [License](LICENSE) (Apache-2.0)
+[Support](SUPPORT.md) · [License](LICENSE) (Apache-2.0) 
